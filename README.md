@@ -1,6 +1,6 @@
 # Hey, I'm Sagar Mishra 👋
 
-Senior Lead AI Engineer with 8 years of building things that actually work in production — multi-agent systems, RAG pipelines, LLMOps infrastructure. Not demos. Real systems, real users, real scale.
+Senior AI Engineer with 8 years of building things that actually work in production — multi-agent systems, RAG pipelines, LLMOps infrastructure. Not demos. Real systems, real users, real scale.
 
 I've architected a multi-agent AI staffing platform serving 7,000 users across a 70,000-person enterprise workforce, built agentic customer support systems that autonomously resolved 70% of queries, and shipped forecasting engines hitting 91% accuracy in production healthcare environments.
 
