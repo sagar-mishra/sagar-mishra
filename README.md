@@ -57,7 +57,6 @@ Production-grade implementations of LLMs, multi-agent systems, RAG pipelines, OC
 
 ## Currently building
 
-- M.Tech in AI & Data Science at **IIT Patna** (CPI: 8.21) — yes, while working full-time
 - Exploring MCP (Model Context Protocol) integrations for production agent architectures
 - Deepening LLMOps observability patterns — tracing, evaluation, drift detection at scale
 
